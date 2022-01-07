@@ -1,1 +1,3 @@
 testfile for git chache (staged/unstaged) add/restore practice...
+
+2. practice using master as default branch in github
